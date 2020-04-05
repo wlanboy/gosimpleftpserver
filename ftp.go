@@ -55,8 +55,4 @@ func main() {
 	if err != nil {
 		log.Fatalf("FTP server error %v", err)
 	}
-
-	if err != nil {
-		log.Fatalf("Error %v", err)
-	}
 }
