@@ -1,5 +1,6 @@
 # gosimpleftpserver
 Golang simple ftp server
+- depends on github.com/goftp/server and github.com/syndtr/goleveldb
 
 # build
 * go get -d -v
